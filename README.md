@@ -1,1 +1,1 @@
-# gitCafe
+This folder contains the menu of the Git Cafe' with the specification of each 'Beverage' and 'Dessert'.
